@@ -1,2 +1,2 @@
 # gmorphometrics
-Some geometric morphometrics functions, intended to build on / be complementary to standard GM R packages
+Some (simple) functions for geometric morphometrics procedures, intended to be complementary to / be built on standard GM R packages. Mostly written to aid my own workflow in R, but also to make up for some details I stumbled on.
